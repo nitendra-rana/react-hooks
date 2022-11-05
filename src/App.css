@@ -26,3 +26,15 @@ h3{
   flex-direction: column;
   justify-content: center;
 }
+.home{
+  margin: 20px;
+
+}
+.home span{
+  margin: 20px;
+  display: block;
+}
+.dictionary{
+  margin-top: 20px;
+}
+
